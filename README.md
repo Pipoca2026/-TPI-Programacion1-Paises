@@ -19,9 +19,8 @@ Este proyecto es una aplicación de consola desarrollada en Python para la gesti
 3. Ejecutar el programa: `python CODIGOTPI.py`
 
 ## Integrantes
-- [Tu Nombre Aquí]
-- [Nombre de tu Compañero Aquí]
+- Maria Lucia Giordano
 
 ## Documentación y Video
-- **Informe Técnico:** [Clic aquí para ver el PDF](./INFORME%20TECNICO%20GESTION%20DE%20DATOS%20DE%20PAI.pdf)
+- **Informe Técnico:** [Clic aquí para ver el PDF]([./INFORME%20TECNICO%20GESTION%20DE%20DATOS%20DE%20PAI.pdf](https://acrobat.adobe.com/id/urn:aaid:sc:US:09b58b22-b55a-47f5-9c64-ac2f215af346))
 
