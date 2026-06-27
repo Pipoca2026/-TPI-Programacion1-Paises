@@ -24,4 +24,4 @@ Este proyecto es una aplicación de consola desarrollada en Python para la gesti
 
 ## Documentación y Video
 - **Informe Técnico:** [Clic aquí para ver el PDF](./INFORME%20TECNICO%20GESTION%20DE%20DATOS%20DE%20PAI.pdf)
-- **Video Demostrativo:** [PEGA AQUÍ EL LINK DE TU VIDEO DE YOUTUBE O DRIVE]
+
