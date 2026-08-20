@@ -17,10 +17,4 @@ MANEJO DE ARCHIVOS
 LISTAS
 
 
-### 🎥 Documentación y Video
-- **Informe Técnico:** [Clic aquí para ver el PDF](enlace-al-pdf)
-- **Video demostrativo:** [Clic aquí para ver el video](enlace-al-video)
-
-## Integrantes
-- Maria Lucia Giordano
 
